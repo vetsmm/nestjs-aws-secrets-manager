@@ -1,6 +1,6 @@
 {
   "name": "@vetsmm/nestjs-aws-secrets-manager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NestJS module for AWS Secrets Manager",
   "author": "Mark Tripoli <markt@vetsmm.com>",
   "license": "MIT",
